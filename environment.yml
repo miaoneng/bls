@@ -1,0 +1,6 @@
+name: bls
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
